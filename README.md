@@ -24,4 +24,4 @@ Service animals are welcome at XOXO.
 
 ## License
 
-This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/covid). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/accessibility). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
